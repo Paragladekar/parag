@@ -35,7 +35,7 @@ public class Drandanddrop_demo {
 		 driver.navigate().back();
 		 String title1=driver.getTitle();
 		 System.out.println("The title of webpage is:"+title1);
-		 
+		 System.out.println("driver closed"); 
 		 
 				 
 	} 
